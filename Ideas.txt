@@ -2,3 +2,4 @@ How tech can aid forest management
 ----------------------------------
 - track the tasks in a todo list or project management system
 - see if forestry management systems are available?
+- use PowerBI to create a dashboard
